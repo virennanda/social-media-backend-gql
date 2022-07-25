@@ -1,0 +1,4 @@
+client
+next-graphql-client
+/node_modules
+.env
